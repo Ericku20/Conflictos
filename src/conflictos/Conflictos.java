@@ -12,7 +12,8 @@ public class Conflictos {
 
 
     public static void main(String[] args) {
-        
+        int edad;
+        int nombre;
     }
     
 }
